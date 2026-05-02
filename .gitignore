@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.pnpm-debug.log*
+
+# Databases & Local state
+prisma/dev.db
+prisma/dev.db-journal
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cleanup Scripts configs
+scripts/remove_node.config.json
+scripts/remove_target.config.json
