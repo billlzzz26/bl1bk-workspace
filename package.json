@@ -35,7 +35,7 @@
     "@radix-ui/react-switch": "^1.1.1",
     "@radix-ui/react-tabs": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.2",
-    "ai": "^4.1.0",
+    "ai": "^5.0.52",
     "bcryptjs": "^2.4.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -43,7 +43,7 @@
     "date-fns": "^4.1.0",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.468.0",
-    "next-auth": "^4.24.11",
+    "next-auth": "^4.24.12",
     "openai": "^4.73.1",
     "opik": "^0.2.0",
     "react": "^19.1.0",
@@ -52,7 +52,7 @@
     "react-markdown": "^9.0.1",
     "remark-gfm": "^4.0.0",
     "tailwind-merge": "^2.5.4",
-    "uuid": "^11.0.3"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
@@ -67,10 +67,10 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
-    "postcss": "^8.5.0",
+    "postcss": "^8.5.10",
     "prisma": "^6.1.0",
     "tailwindcss": "^3.4.17",
-    "vite": "^6.3.5"
+    "vite": "^6.4.2"
   },
   "keywords": [
     "ai",
